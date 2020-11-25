@@ -1,0 +1,5 @@
+{
+    "name": "apigoat/phing-copy2",
+    "type": "library",
+    "description": "phing copy no overwrite if exists"
+}
